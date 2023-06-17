@@ -13,8 +13,8 @@
 
 ## 2. Compile
 
-- 개발OS: Linux Ubuntu 16.04 LTS
-- Version: C++ 14
+- 개발OS: Linux Ubuntu 20.04.3 LTS
+- Version: C++ 17
 - Compile Command: ``` make ```
 
 <br>
